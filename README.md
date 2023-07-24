@@ -2,7 +2,7 @@
 TextUtils: 📝💬 Simplify text manipulation & analysis in React! Convert to lowercase, count words, add text-to-speech & more! 🚀
 
 ## 🔗 Sun's TextUtils: Explore Now!
-###  [TechSunStore](https://sun-textutils.netlify.app/) :octocat:
+###  [Sun's TextUtils](https://sun-textutils.netlify.app/) :octocat:
 
 ## QR Visit: Sun's TextUtils 📝
 <img src="https://github.com/techSun-07/React-TextUtils/assets/100226645/929f1df5-3ca0-4f30-a92d-6b9502a198b7" height = "200" alt = "Sun's TextUtils QR Code"/>
